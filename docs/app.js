@@ -1,10 +1,10 @@
 import React from 'react'
-import Header from './components/Header'
+import Header from './components/header'
 import Features from './components/Features'
 import Usage from './components/Usage'
 import Install from './components/Install'
 import Examples from './components/Examples'
-import Footer from './components/Footer'
+import Footer from './components/footer'
 import '../src/rangeslider.less'
 import './app.less'
 
